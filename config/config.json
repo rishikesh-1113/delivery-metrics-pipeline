@@ -1,0 +1,5 @@
+{
+  "service_name": "delivery-metrics-exporter",
+  "port": 8000,
+  "interval_seconds": 5
+}
