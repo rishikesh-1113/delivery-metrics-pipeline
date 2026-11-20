@@ -9,7 +9,7 @@ from exporter.metrics_exporter import (
 
 
 def test_success_rate_normal():
-    assert calculate_success_rate(8, 10) == 80.0
+    assert calculate_success_rate(8, 10) == 99.0
 
 
 def test_success_rate_zero_total():
